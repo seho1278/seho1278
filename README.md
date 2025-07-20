@@ -4,7 +4,7 @@
 
 **ENFP 개발자**, 새로운 환경에 도전하는 비전공자 **정세호**입니다 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/seho1278&title=Profile%20Views&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=white&title_color=white&edge_flat=false)](https://github.com/jungseho)
+![Hits](https://img.shields.io/github/followers/seho1278?label=Follow)
 
 </div>
 
@@ -46,10 +46,10 @@
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
+<a href="">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
-<a href="https://your-blog-url.com">
+<a href="">
   <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </a>
 
