@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seho%20Jeong&fontSize=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Today%20I%20Learned&fontSize=70&fontColor=ffffff)
 
 **ENFP 개발자**, 새로운 환경에 도전하는 비전공자 **정세호**입니다 👋
 
@@ -58,23 +58,13 @@
 ---
 
 ## 📖 Education
-<table align="center">
-  <tr>
-    <td align="center" width="100%">
-      <strong>SSAFY 14기</strong><br/>
-      <em>2025년 7월 8일 ~ 진행 중</em><br/><br/>
-      삼성청년SW아카데미에서<br/>
-      Java 공부중입니다. 💻<br/>
-      <br/>
-      꾸준히 성장하고 기록합니다! 💪
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <strong>SSAFY 14기</strong> <em>2025.07.08 ~</em>
+</div>
 
 ---
 
 
 
 
-> ☀️ 함께 즐겁고 의미 있는 SSAFY 생활을 만들어가요!
+> ☀️ 더 나은 사람이 되기 위해 노력하!
